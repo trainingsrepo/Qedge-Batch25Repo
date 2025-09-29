@@ -41,6 +41,25 @@ public class GetAccessToken {
         } catch (Exception ex) {
             logger.log(Level.SEVERE,ex.getMessage(), ex);
         }
+
+		#feature102 code changes by developer ethan in his userTransactions module in sept 2024
+		class Sum_Product_ofDigit{
+      public static void main(String args[]){
+            int num = Integer.parseInt(args[0]);         //taking value as command line argument.
+            int temp = num,result=0;
+            //Logic for sum of digit
+            while(temp>0){
+               result = result + temp;
+               temp--;
+			         temp = num;
+            result = 1;
+            while(temp > 0){
+                 result = result * temp;
+                 temp--;
+            }
+            }
+		#end of feature102 code changes   
+
 		#feature101 code changes by Developer Vivek on Reports Module in sept 2024
 		class Maxof2{
 			public static void main(String args[]){
@@ -56,4 +75,5 @@ public class GetAccessToken {
 	  }
 	}
 	#end of feature101 changes
+
     }
