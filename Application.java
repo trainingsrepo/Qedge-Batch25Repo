@@ -41,6 +41,7 @@ public class GetAccessToken {
         } catch (Exception ex) {
             logger.log(Level.SEVERE,ex.getMessage(), ex);
         }
+
 		#feature102 code changes by developer ethan in his userTransactions module in sept 2024
 		class Sum_Product_ofDigit{
       public static void main(String args[]){
@@ -58,4 +59,21 @@ public class GetAccessToken {
             }
             }
 		#end of feature102 code changes   
+
+		#feature101 code changes by Developer Vivek on Reports Module in sept 2024
+		class Maxof2{
+			public static void main(String args[]){
+			//taking value as command line argument.
+			//Converting String format to Integer value
+		int i = Integer.parseInt(args[0]);
+		int j = Integer.parseInt(args[1]);
+
+		  if(i > j)
+			  System.out.println(i+" is greater than "+j);
+		  else
+			  System.out.println(j+" is greater than "+i);
+	  }
+	}
+	#end of feature101 changes
+
     }
