@@ -1,3 +1,0 @@
-working with the branches
-using Modules how we work in projects
-we can use branches in Git.
