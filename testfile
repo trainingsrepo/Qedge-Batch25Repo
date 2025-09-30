@@ -1,6 +1,6 @@
 Working with the testfile
 new testfile
-<<<<<<< HEAD
+
 #VCS is a Version Control system
 which is used to track the files, folders
 and projects over the time.
@@ -9,4 +9,4 @@ and projects over the time.
 Build Automation is the process of automating the creation
 compilation
 deployment of software applications.
->>>>>>> 6f745d7b3a82b8c2b09d71fda85c955da248a046
+
