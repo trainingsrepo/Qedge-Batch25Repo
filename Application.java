@@ -75,5 +75,13 @@ public class GetAccessToken {
 	  }
 	}
 	#end of feature101 changes
+     #Webhook Job Demo on 15-oct-2025
+		// reads all data from input.txt
+      sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
+		#end of Webhook job demo  
 
     }
