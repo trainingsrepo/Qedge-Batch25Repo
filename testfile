@@ -13,3 +13,9 @@ deployment of software applications.
 #code changes @2:30pm
 Working on Reports on UserFinancial transactions
 code here....
+#Demo for Jenkins AutoBuild Job
+Speed is the key to modern software development. 
+The monolithic all-or-nothing paradigm of traditional waterfall 
+software development has largely been replaced by rapid iterative techniques 
+that support development and release. These techniques go by several names, including 
+continuous integration, continuous delivery and continuous deployment.
